@@ -1,2 +1,2 @@
 # EVIDENCIAS DESARROLLO MOVIL
-EVIDENCIAS: Funciones reto de aprendizaje Swift y aplicacion Pokedex
+EVIDENCIAS: Ejercicios de aprendizaje Swift (BEGINNER, INTERMEDIATE) y aplicacion Pokedex
